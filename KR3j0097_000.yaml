@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0097/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十
+  hash: sha256:6558828ce7672044657017b2bb9c6172233a999f18551baa91b8fd0e67ea1b4b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0097_WYG_000-1a, image: WYG0863/WYG0863-0171a.png}
+body:
+  text: 師友談記雜家類三雜說之屬提要臣等謹案師友談記一卷宋李豸撰豸有德隅齊畫品己著録是書記蘇軾范祖禹及黃庭堅秦觀朝說之張耒所談故曰師友其人皆元祐勝流而豸之學問文章亦足與相亞能解諸人之所談所載多名言格論非小說瑣録之比其述秦觀論賦之語反覆數條曲盡工巧而終以為場屋之賦不足重可謂不阿所好書中稱哲宗為今上蓋作於元祐中末記蘇軾為兵部尚書及帥定州事軾到定州不久即南遷則是書之成又當在元祐諸人盡罹貶斥之後知其交由神契非以勢利相攀且以潦倒場屋之人於新經義盛行之時曲附其說即可以立致科第而獨載排斥笑謔之語不肯稍遜窮視其所不為亦可謂介然有守矣寥寥數簡之書而至今孤行於天地豈偶然哉乾隆四十六年十月恭校上總纂官臣紀均臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:66d3186e9255c24a4f5c61c05e4371fed97a8ffeae3f31096851380c50328402
+metadata:
+  title: 師友談記
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:23:04.945824'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3j0097/KR3j0097_000.txt
+hash: sha256:1da506e93719ccd29ea7f3339fb4087b888ff6f5c0b397768a9c3f4fc94ef537
